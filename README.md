@@ -4,9 +4,9 @@
 
 ## 所用数据集
 本论文所使用的数据集包括三个：
-1. RSOD
-2. DIOR
-3. NWPU-VHR10
+1. DIOR  https://gcheng-nwpu.github.io/#Datasets 需要注意的是，该数据集训练、验证、测试集以及图片的尺寸官方已经固定，而且多数使用该数据集的论文均采用了该划分和尺寸
+2. RSOD  https://gcheng-nwpu.github.io/#Datasets 
+3. NWPU-VHR10 https://gcheng-nwpu.github.io/#Datasets
 
    
 
